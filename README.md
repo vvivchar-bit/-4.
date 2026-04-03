@@ -12,40 +12,32 @@
 
 ## Файли репозиторію
 
-- [README.md](./README.md)
-- [Tema4.cpp](./Tema4.cpp) — приклад базового і похідного класів, відкрите успадкування, віртуальна функція
-- [Tema4.vcxproj](./Tema4.vcxproj)
-- [Tema4.vcxproj.filters](./Tema4.vcxproj.filters)
+- [README.md](README.md)
 
-- [Tema4.1.cpp](./Tema4.1.cpp) — абстрактний клас, суто віртуальна функція, `dynamic_cast`, віртуальний деструктор
-- [Tema4.1.vcxproj](./Tema4.1.vcxproj)
-- [Tema4.1.vcxproj.filters](./Tema4.1.vcxproj.filters)
+- [Tema4.cpp](Tema4.cpp) — базовий і похідний класи, відкрите успадкування, віртуальна функція
+- [Tema4.vcxproj](Tema4.vcxproj)
+- [Tema4.vcxproj.filters](Tema4.vcxproj.filters)
 
-- [Tema4.2.cpp](./Tema4.2.cpp) — `protected` і `private` успадкування, порядок виклику конструкторів і деструкторів
-- [Tema4.2.vcxproj](./Tema4.2.vcxproj)
-- [Tema4.2.vcxproj.filters](./Tema4.2.vcxproj.filters)
+- [Tema4.1.cpp](Tema4.1.cpp) — абстрактний клас, суто віртуальна функція, dynamic_cast, віртуальний деструктор
+- [Tema4.1.vcxproj](Tema4.1.vcxproj)
+- [Tema4.1.vcxproj.filters](Tema4.1.vcxproj.filters)
 
-- [Tema4.4.cpp](./Tema4.4.cpp) — множинне успадкування та віртуальний базовий клас
-- [Tema4.4.vcxproj](./Tema4.4.vcxproj)
-- [Tema4.4.vcxproj.filters](./Tema4.4.vcxproj.filters)
+- [Tema4.2.cpp](Tema4.2.cpp) — protected і private успадкування, порядок виклику конструкторів і деструкторів
+- [Tema4.2.vcxproj](Tema4.2.vcxproj)
+- [Tema4.2.vcxproj.filters](Tema4.2.vcxproj.filters)
 
-- [tema4 (2).pdf](./tema4%20(2).pdf) — звіт
+- [Tema4.4.cpp](Tema4.4.cpp) — множинне успадкування та віртуальний базовий клас
+- [Tema4.4.vcxproj](Tema4.4.vcxproj)
+- [Tema4.4.vcxproj.filters](Tema4.4.vcxproj.filters)
+
+- [tema4 (2).pdf](<tema4 (2).pdf>) — звіт
 
 ## Короткий опис
 У репозиторії подано матеріали до практичного заняття №4 з теми успадкування, поліморфізму, віртуальних функцій та абстрактних класів у мові C++.
-
-У роботі розглянуто:
-- базові та похідні класи;
-- відкрите, захищене та закрите успадкування;
-- динамічний поліморфізм;
-- абстрактні класи та суто віртуальні функції;
-- оператор `dynamic_cast`;
-- віртуальні базові класи;
-- порядок виклику конструкторів і деструкторів.
 
 ## Практична частина
 Приклади створені та перевірені у Microsoft Visual Studio.  
 У звіті наведено теоретичні пояснення та практичні приклади зі скрінами виконання програм.
 
 ## Висновок
-Виконані приклади демонструють основні можливості механізму успадкування та поліморфізму в C++. Застосування цих підходів дозволяє будувати структуровані, розширювані та зручні для супроводу програми.
+Виконані приклади демонструють основні можливості механізму успадкування та поліморфізму в C++.
