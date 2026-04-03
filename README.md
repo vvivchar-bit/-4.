@@ -12,25 +12,24 @@
 
 ## Файли репозиторію
 
-- [README.md](README.md)
+- README.md
+- Tema4.cpp — базовий і похідний класи, відкрите успадкування, віртуальна функція
+- Tema4.vcxproj
+- Tema4.vcxproj.filters
 
-- [Tema4.cpp](Tema4.cpp) — базовий і похідний класи, відкрите успадкування, віртуальна функція
-- [Tema4.vcxproj](Tema4.vcxproj)
-- [Tema4.vcxproj.filters](Tema4.vcxproj.filters)
+- Tema4.1.cpp — абстрактний клас, суто віртуальна функція, dynamic_cast, віртуальний деструктор
+- Tema4.1.vcxproj
+- Tema4.1.vcxproj.filters
 
-- [Tema4.1.cpp](Tema4.1.cpp) — абстрактний клас, суто віртуальна функція, dynamic_cast, віртуальний деструктор
-- [Tema4.1.vcxproj](Tema4.1.vcxproj)
-- [Tema4.1.vcxproj.filters](Tema4.1.vcxproj.filters)
+- Tema4.2.cpp — protected і private успадкування, порядок виклику конструкторів і деструкторів
+- Tema4.2.vcxproj
+- Tema4.2.vcxproj.filters
 
-- [Tema4.2.cpp](Tema4.2.cpp) — protected і private успадкування, порядок виклику конструкторів і деструкторів
-- [Tema4.2.vcxproj](Tema4.2.vcxproj)
-- [Tema4.2.vcxproj.filters](Tema4.2.vcxproj.filters)
+- Tema4.4.cpp — множинне успадкування та віртуальний базовий клас
+- Tema4.4.vcxproj
+- Tema4.4.vcxproj.filters
 
-- [Tema4.4.cpp](Tema4.4.cpp) — множинне успадкування та віртуальний базовий клас
-- [Tema4.4.vcxproj](Tema4.4.vcxproj)
-- [Tema4.4.vcxproj.filters](Tema4.4.vcxproj.filters)
-
-- [tema4 (2).pdf](<tema4 (2).pdf>) — звіт
+- tema4 (2).pdf — звіт
 
 ## Короткий опис
 У репозиторії подано матеріали до практичного заняття №4 з теми успадкування, поліморфізму, віртуальних функцій та абстрактних класів у мові C++.
